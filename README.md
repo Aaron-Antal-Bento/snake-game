@@ -1,50 +1,26 @@
-# POP Raylib starter
+🐍 Snake Game in C
 
-Simple starter application for POP C assignment.
+A classic Snake game written in C, with animations, sounds, and smooth user input with input buffering for a better gameplay experience. Created in first year at UWE for my principals of programming module.
 
-Please see materials on Blackboard for more details.
-
-# Building
-
-To build run the command:
-
-```bash
-/opt/pop/bin/build-wasm.sh src/main.c
-```
-
-This will generate a directory *out* with the WASM and index.html files for the 
-Raylib program.
-
-# Running
-
-The very first time you run a POP WASM application you must run the command:
-
-```bash
-/opt/pop/bin/allocate_port.sh
-```
-
-You might need to start a new terminal instance for the update to take effect.
-To check that everything is fine run the command:
-
-```bash
-echo $MY_PORT
-```
-
-This should output a 5 digit number.
+🎮 Demo
+...
 
 
-To run the Raylib program in *out* simply run the command:
+✨ Features
 
-```bash
-/opt/pop/bin/run-wasm.sh
-```
+Responsive sprite sheet pixel art animations, including snake biting and death animations.
 
-This will run a web server that serves the *out* on the port you allocated above. This is forwarded from the 
-remote server to your local machine, which means you can simply open the corresponding web page within a browser 
-on your local machine using the address:
+Sound effects for button clicks, end of game, snake eating, and more.
 
-```bash
-localhost:XXXXX
-```
+Input buffering for smooth and responsive controls.
 
-where *XXXXX* is the port number you allocated above.
+Score tracking and 4 levels of difficulty which increases the speed of the snake and the size of the playable area.
+
+Cross-platform C code (Windows executable provided)
+
+
+🚀 Getting Started
+Run the Game
+
+Download the latest release: Snake.exe allong with the recources folder.
+Ensure both Snake.exe and the recources folder are in the same folder and double-click to play!
