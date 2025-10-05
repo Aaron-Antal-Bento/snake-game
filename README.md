@@ -19,8 +19,7 @@ Score tracking and 4 levels of difficulty which increases the speed of the snake
 Cross-platform C code (Windows executable provided)
 
 
-🚀 Getting Started
-- Run the Game
+🚀 Running the Game
 
 Download the latest release: Snake.exe allong with the recources folder.
 Ensure both Snake.exe and the recources folder are in the same folder and double-click to play!
