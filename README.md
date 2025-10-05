@@ -21,7 +21,7 @@ Cross-platform C code (Windows executable provided)
 
 🚀 Running the Game
 
-Download the latest release: SnakeGame.zip (this includes `Snake.exe` along with a `resources` folder).
+Download the latest release: [SnakeGame.zip](https://github.com/Aaron-Antal-Bento/snake-game/releases) (this includes `Snake.exe` along with a `resources` folder).
 
 Extract the files from the .zip and ensure both `Snake.exe` and the `resources` folder are in the same directory.
 
