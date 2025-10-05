@@ -20,7 +20,7 @@ Cross-platform C code (Windows executable provided)
 
 
 🚀 Getting Started
-Run the Game
+- Run the Game
 
 Download the latest release: Snake.exe allong with the recources folder.
 Ensure both Snake.exe and the recources folder are in the same folder and double-click to play!
