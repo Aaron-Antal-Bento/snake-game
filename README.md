@@ -7,6 +7,8 @@ A classic Snake game written in C, with animations, sounds, and smooth user inpu
 
 ![Snake Game Win Demo](./demo/SnakeGameplay2.gif)
 
+![Snake Game Difficulties Demo](./demo/DifficultiesDemo.png)
+
 ✨ Features
 
 Responsive sprite sheet pixel art animations, including snake biting and death animations.
