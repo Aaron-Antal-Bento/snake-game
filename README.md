@@ -3,8 +3,9 @@
 A classic Snake game written in C, with animations, sounds, and smooth user input with input buffering for a better gameplay experience. Created in first year at UWE for my principals of programming module.
 
 🎮 Demo
-...
+![Snake Game Demo](./demo/SnakeGameplay1.gif)
 
+![Snake Game Win Demo](./demo/SnakeGameplay2.gif)
 
 ✨ Features
 
