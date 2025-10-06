@@ -1,31 +1,43 @@
-# 🐍 Snake Game in C
+<h1>🐍 Snake Game in C</h1>
 
-A classic Snake game written in C, with animations, sounds, and smooth user input with input buffering for a better gameplay experience. Created in first year at UWE for my principals of programming module.
+<p>
+A classic Snake game written in C, with animations, sounds, and smooth user input with input buffering for a better gameplay experience. 
+Created in first year at UWE for my principals of programming module.
+</p>
 
-🎮 Demo
-![Snake Game Demo](./demo/SnakeGameplay1.gif)
+<h2>🎮 Demo</h2>
 
-![Snake Game Win Demo](./demo/SnakeGameplay2.gif)
+<div align="center">
+  <h4>Gameplay</h4>
+  <img src="./demo/SnakeGameplay1.gif" alt="Snake Game Demo" width="700"><br>
+  <h4>Win State</h4>
+  <img src="./demo/SnakeGameplay2.gif" alt="Snake Game Win Demo" width="700"><br>
+  <h4>Difficulties</h4>
+  <img src="./demo/DifficultiesDemo.png" alt="Snake Game Difficulties Demo" width="700">
+</div>
 
-![Snake Game Difficulties Demo](./demo/DifficultiesDemo.png)
+<h2>Features</h2>
 
-✨ Features
+<ul>
+  <li>Responsive sprite sheet pixel art animations, including snake biting and death animations.</li>
+  <li>Sound effects for button clicks, end of game, snake eating, and more.</li>
+  <li>Input buffering for smooth and responsive controls.</li>
+  <li>Score tracking and 4 levels of difficulty which increases the speed of the snake and the size of the playable area.</li>
+  <li>Cross-platform C code (Windows executable provided)</li>
+</ul>
 
-Responsive sprite sheet pixel art animations, including snake biting and death animations.
+<h2>🚀 Running the Game</h2>
 
-Sound effects for button clicks, end of game, snake eating, and more.
+<p>
+Download the latest release: 
+<a href="https://github.com/Aaron-Antal-Bento/snake-game/releases">SnakeGame.zip</a> 
+(this includes <code>Snake.exe</code> along with a <code>resources</code> folder).
+</p>
 
-Input buffering for smooth and responsive controls.
+<p>
+Extract the files from the .zip and ensure both <code>Snake.exe</code> and the <code>resources</code> folder are in the same directory.
+</p>
 
-Score tracking and 4 levels of difficulty which increases the speed of the snake and the size of the playable area.
-
-Cross-platform C code (Windows executable provided)
-
-
-🚀 Running the Game
-
-Download the latest release: [SnakeGame.zip](https://github.com/Aaron-Antal-Bento/snake-game/releases) (this includes `Snake.exe` along with a `resources` folder).
-
-Extract the files from the .zip and ensure both `Snake.exe` and the `resources` folder are in the same directory.
-
-Double-click `Snake.exe` to play!
+<p>
+Double-click <code>Snake.exe</code> to play!
+</p>
