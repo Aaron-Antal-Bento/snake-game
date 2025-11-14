@@ -1,11 +1,11 @@
-<h1>🐍 Snake Game in C</h1>
+<h1>Snake Game in C</h1>
 
 <p>
 A classic Snake game written in C, with animations, sounds, and smooth user input with input buffering for a better gameplay experience. 
 Created in first year at UWE for my principals of programming module.
 </p>
 
-<h2>🎮 Demo</h2>
+<h2>Demo</h2>
 
 <div align="center">
   <h4>Gameplay</h4>
@@ -26,7 +26,7 @@ Created in first year at UWE for my principals of programming module.
   <li>Cross-platform C code (Windows executable provided)</li>
 </ul>
 
-<h2>🚀 Running the Game</h2>
+<h2>Running the Game</h2>
 
 <p>
 Download the latest release: 
